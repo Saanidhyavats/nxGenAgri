@@ -1,0 +1,9 @@
+numpy
+pandas
+Flask
+tensorflow-cpu
+pickle
+requests
+Pillow
+gunicorn
+opencv-python
